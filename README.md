@@ -8,6 +8,18 @@ Show some :heart: by putting :star:
 
 `intent` is readily available for [use](https://pub.dev/packages/intent). 
 
+## installation
+
+Add this to your package's pubspec.yaml file:
+
+```
+dependencies:
+ intent:
+    git:
+      url: https://github.com/kazbekbet/intent
+```
+
+
 ## what does it do ?
 - `intent` is your one stop solution for handling different Android Intents from Flutter app.
 - It provides an easy to use *Dart* API, which can be used to launch different kind of Android Activities
