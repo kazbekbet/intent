@@ -1,3 +1,8 @@
+## 1.4.1
+
+* Migrated to null safety.
+* Some code style improvements.
+
 ## 1.4.0
 
 * Updated `androidx.core` dependency to latest version
